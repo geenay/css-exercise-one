@@ -3,9 +3,9 @@ body {
 }
 
 nav {
-  background-color: yellow;
-  height: 100px;
-  margin-top: -10px;
+  background-color: yellow; */this changes the background colour*/
+  height: 100px; */this changes the height of the box*/
+  margin-top: -10px; */ this changes the margin space at the top of the box*/
   position: fixed;
   width: 100%;
 }
@@ -16,13 +16,13 @@ section {
 }
 
 h1 {
-  font-family: sans-serif;
-  font-size: 2em;
+  font-family: sans-serif; */the font used on all h1 is set*/
+  font-size: 2em; */ the size used on all h1*/
 }
 
 .example, h3 {
   padding-top: 30px;
-  text-align: center;
+  text-align: center; 
 }
 
 h3 {
